@@ -1,0 +1,12 @@
+_commit: v1.1.0
+_src_path: gh:superlinear-ai/substrate
+author_email: l@dsa.com
+author_name: luiz
+project_description: fdsa
+project_name: uvtestbtn
+project_type: package
+project_url: https://github.com/zcorrea357/uvtestbtn
+python_version: '3.10'
+typing: strict
+with_conventional_commits: true
+with_typer_cli: true
